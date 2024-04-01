@@ -1,0 +1,7 @@
+﻿  linked_list.cpp
+  main.cpp
+  reservation.cpp
+  Generating Code...
+C:\Users\vorah\Downloads\Coding Stuff\Airline Reservation Project\Airline Reservation Project\linked_list.cpp(210): warning C4715: 'Linked_list::delete_node': not all control paths return a value
+C:\Users\vorah\Downloads\Coding Stuff\Airline Reservation Project\Airline Reservation Project\linked_list.cpp(82): warning C4715: 'Linked_list::insert_node': not all control paths return a value
+  Airline Reservation Project.vcxproj -> C:\Users\vorah\Downloads\Coding Stuff\Airline Reservation Project\x64\Debug\Airline Reservation Project.exe
